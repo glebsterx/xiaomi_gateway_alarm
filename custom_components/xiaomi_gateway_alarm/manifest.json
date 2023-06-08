@@ -11,5 +11,5 @@
   "dependencies": [],
   "codeowners": [],
   "requirements": ["python-miio>=0.4.5"],
-  "version": 0
+  "version": 1
 }
