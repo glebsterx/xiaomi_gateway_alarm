@@ -7,6 +7,7 @@
     "@hekm77",
     "@glebsterx"
   ],
+  "integration_type": "entity",
   "dependencies": [],
   "codeowners": [],
   "requirements": ["python-miio>=0.4.5"],
